@@ -1,0 +1,8 @@
+[
+    {"name": "Kingston", "id": 1, "neighbours": [{"city": 1, "distance": 171}, {"city": 2, "distance": 92}, {"city": 3, "distance": 86}], "latitude": 18, "longitude": 77, "country": "Jamaica"},
+    {"name": "Montego Bay", "id": 2, "neighbours": [{"city": 0, "distance": 171}, {"city": 2, "distance": 120}, {"city": 3, "distance": 120}], "latitude": 18, "longitude": 77, "country": "Jamaica"},
+    {"name": "Mandeville", "id": 3, "neighbours": [{"city": 0, "distance": 92}, {"city": 1, "distance": 3}, {"city": 3, "distance": 120}], "latitude": 18, "longitude": 77, "country": "Jamaica"},
+    {"name": "Ocho Rios", "id": 4, "neighbours": [{"city": 0, "distance": 86}, {"city": 1, "distance": 120}, {"city": 2, "distance": 120}], "latitude": 18, "longitude": 77, "country": "Jamaica"}
+        
+]
+        
